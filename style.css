@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width:100%;
+    height:100%;
+}
+.main{
+    background-color: black;
+    color: white;
+}
+.Hello{
+    background-color:antiquewhite;
+    color: white;
+}
+.details{
+    background-color: black;
+    color: white;
+}
